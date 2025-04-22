@@ -10,6 +10,7 @@ The goal is to test and demonstrate how MCP can be integrated and utilized in di
 
 ### MCP Core
 
+*   **Anthropic MCP Announcement** [https://www.anthropic.com/news/model-context-protocol](https://www.anthropic.com/news/model-context-protocol)
 *   **MCP Python SDK:** [https://github.com/modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
 *   **MCP Clients (StdIO vs SSE):** [Blog post comparing client communication methods](https://medium.com/@vkrishnan9074/mcp-clients-stdio-vs-sse-a53843d9aabb)
 
