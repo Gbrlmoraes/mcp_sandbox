@@ -1,5 +1,13 @@
+# general packages
 mcp[cli]
+python-dotenv
+ruff
+
+# Langgraph packages
 langchain-mcp-adapters 
 langgraph 
 langchain-ollama
-python-dotenv
+
+# Crewai packages
+crewai
+crewai-tools[mcp]
