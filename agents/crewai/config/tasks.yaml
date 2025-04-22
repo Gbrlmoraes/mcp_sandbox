@@ -1,0 +1,9 @@
+give_weather_report:
+  description: >
+    In this task, you have to provide a weather report based on real data.
+    The report should be engaging and informative, making it fun for the audience.
+    Be brief and to the point, but also add a touch of personality to your report.
+
+    To make the report you have to respond to the following question: {question}
+  expected_output: >
+    A fun and informative weather report that is engaging and based on real data, the temperature in Celsius and the weather condition.
