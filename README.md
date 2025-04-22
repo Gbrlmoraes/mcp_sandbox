@@ -16,3 +16,4 @@ The goal is to test and demonstrate how MCP can be integrated and utilized in di
 ### Framework Integrations
 
 *   **Langchain MCP Adapters:** [https://github.com/langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters)
+*   **Crew AI MCP Tools:** [https://github.com/crewAIInc/crewAI-tools](https://github.com/crewAIInc/crewAI-tools/tree/main?tab=readme-ov-file#crewai-tools-and-mcp)
