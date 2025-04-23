@@ -13,7 +13,12 @@ async def main(message: str):
             "weather": {
                 "url": "http://localhost:8000/sse",
                 "transport": "sse",
-            }
+            },
+            "docs": {
+                "command": "python",
+                "args": ["mcp_servers/docs_server.py"],
+                "transport": "stdio",
+            },
         }
     ) as client:
         agent = create_react_agent(model, client.get_tools())
